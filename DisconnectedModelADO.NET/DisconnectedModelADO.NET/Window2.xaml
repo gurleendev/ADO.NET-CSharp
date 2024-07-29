@@ -1,0 +1,14 @@
+﻿<Window x:Class="DisconnectedModelADO.NET.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DisconnectedModelADO.NET"
+        mc:Ignorable="d"
+        Title="Window2" Height="450" Width="800">
+    <Grid Margin="0,10,0,7">
+        <DataGrid x:Name="grdProduct" d:ItemsSource="{d:SampleData ItemCount=5}"  Margin="24,125,421,10"/>
+        <DataGrid x:Name="grdOrder" d:ItemsSource="{d:SampleData ItemCount=5}"  Margin="424,126,19,10"/>
+        <Button Content="Load Data" HorizontalAlignment="Left" Margin="40,41,0,0" VerticalAlignment="Top" Height="38" Width="88" Click="Button_Click"/>
+    </Grid>
+</Window>

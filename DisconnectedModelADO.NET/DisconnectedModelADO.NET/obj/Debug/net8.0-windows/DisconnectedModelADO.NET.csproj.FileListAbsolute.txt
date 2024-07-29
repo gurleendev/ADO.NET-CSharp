@@ -1,0 +1,60 @@
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\DisconnectedModelADO.NET.exe
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\DisconnectedModelADO.NET.deps.json
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\DisconnectedModelADO.NET.runtimeconfig.json
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\DisconnectedModelADO.NET.dll
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\DisconnectedModelADO.NET.pdb
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.csproj.AssemblyReference.cache
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\App.g.cs
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET_MarkupCompile.cache
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET_MarkupCompile.lref
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.g.resources
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.AssemblyInfoInputs.cache
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.AssemblyInfo.cs
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.csproj.CoreCompileInputs.cache
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\Disconne.A85FD4E7.Up2Date
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.dll
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\refint\DisconnectedModelADO.NET.dll
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.pdb
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.genruntimeconfig.cache
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\ref\DisconnectedModelADO.NET.dll
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\DisconnectedModelADO.NET.exe
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\DisconnectedModelADO.NET.deps.json
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\DisconnectedModelADO.NET.runtimeconfig.json
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\DisconnectedModelADO.NET.dll
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\DisconnectedModelADO.NET.pdb
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.csproj.AssemblyReference.cache
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\App.g.cs
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET_MarkupCompile.cache
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET_MarkupCompile.lref
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.g.resources
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.AssemblyInfoInputs.cache
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.AssemblyInfo.cs
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.csproj.CoreCompileInputs.cache
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\Disconne.A85FD4E7.Up2Date
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.dll
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\refint\DisconnectedModelADO.NET.dll
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.pdb
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\DisconnectedModelADO.NET.genruntimeconfig.cache
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\ref\DisconnectedModelADO.NET.dll
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\Window2.g.cs
+D:\Sem4\C#\DailyTesting\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\Window2.baml
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\Window2.g.cs
+D:\Sem4\C#\Daily Testing\DisconnectedModelADO.NET\DisconnectedModelADO.NET\obj\Debug\net8.0-windows\Window2.baml
