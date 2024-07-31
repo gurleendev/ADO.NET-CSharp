@@ -1,5 +1,5 @@
 
-<h1>ADO.NET C#</h1>
+<h1>The Product Management System(ADO.NET)</h1>
 
 <h2>Description</h2>
 The Product Management System is a desktop application developed using Windows Presentation Foundation (WPF) and the ADO.NET Disconnected Model. It allows users to perform CRUD (Create, Read, Update, Delete) operations on a product database. The application features a graphical user interface that displays product data in a DataGrid and provides various functionalities such as loading, inserting, updating, deleting, and finding products.
